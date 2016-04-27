@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\Android Projects\\CustomListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\Android Projects\\CustomListView\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android Projects\\CustomListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\image2.png",
+        "source": "F:\\Android Projects\\CustomListView\\app\\src\\main\\res\\drawable-xhdpi\\image2.png"
+    },
+    {
+        "merged": "F:\\Android Projects\\CustomListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\image1.png",
+        "source": "F:\\Android Projects\\CustomListView\\app\\src\\main\\res\\drawable-xhdpi\\image1.png"
+    },
+    {
+        "merged": "F:\\Android Projects\\CustomListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\image3.png",
+        "source": "F:\\Android Projects\\CustomListView\\app\\src\\main\\res\\drawable-xhdpi\\image3.png"
+    }
+]
